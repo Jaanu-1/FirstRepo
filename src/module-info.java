@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author jayad
- *
- */
-module Hello {
-}
