@@ -6,5 +6,6 @@ public class Hello
 		System.out.println("Hello World");
 		System.out.println("Welcome");
 		System.out.println("From Eclipse");
+		System.out.println("From git through Eclipse");
 	}
 }
