@@ -7,5 +7,6 @@ public class Hello
 		System.out.println("Welcome");
 		System.out.println("From Eclipse");
 		System.out.println("From git through Eclipse");
+		System.out.println("From new branch");
 	}
 }
